@@ -69,6 +69,7 @@ for copyright information.
 | iLife			| ZedBook 2			  			  | yes	    | [firmware/ilife/zedbook2](firmware/ilife/zedbook2)           |
 | Myria			| MY8307			  			  | yes	    | [firmware/myria/my8307](firmware/myria/my8307)           |
 | Schneider	     | SCT101CTM                      | yes     | [firmware/schneider/sct101ctm](firmware/schneider/sct101ctm)    |
+| UMAX          | VisionBook 12Wa Flex            | no      | [firmware/umax/visionbook_12wa_flex](firmware/umax/visionbook_12wa_flex) |
 
 
 ## Adding new firmware
